@@ -1,5 +1,5 @@
 def 
-  introduction(word)
+  introduction(name)
   
   puts "#{word}!"
   
@@ -15,6 +15,6 @@ def
 end
 
 
-introduction("hi")
+introduction("Josh")
 
 multiple("yurrr", 1)
