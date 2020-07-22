@@ -8,13 +8,13 @@ end
 
 def
 
-  multiple(word, num)
+  multiple(name, language)
   
-  puts "#{num}.) word: #{word}"
+  puts "Hi, my name is #{nane} and I am learning to program in #{language}"
 
 end
 
 
 introduction("Josh")
 
-multiple("yurrr", 1)
+multiple("Dan", "Ember.js")
