@@ -1,7 +1,7 @@
 def 
   introduction(name)
   
-  puts "#{word}!"
+  puts "Hi, my name is #{word}!"
   
 end
 
