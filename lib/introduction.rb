@@ -17,4 +17,4 @@ end
 
 introduction("Josh")
 
-multiple("Dan", "Ember.js")
+introduction_with_language("Dan", "Ember.js")
